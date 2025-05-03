@@ -36,7 +36,7 @@ Let’s be honest. If it’s not clever, sneaky or kinda horrifying, it’s not 
 ## 💻 Windows Is the Main Act Right Now !
 🔥 These are the tricks that pentesters brag about and blue teams dread:
 
-➡️ [`windows/`](./windows/) — Packed with native tools doing bad bad things
+➡️ [`windows/`](./windows/) — Packed with native tools
 
 Each one includes usage, detection tips and real-world info so you can learn without face-planting.
 
@@ -44,16 +44,16 @@ Each one includes usage, detection tips and real-world info so you can learn wit
 
 ## 🧪 Labs & Red Team Chains — Coming (and it’ll be wild)
 
-🎮 We're cooking up some labs that string these techniques into full kill chains:
+🎮 Im cooking up some labs that string these techniques into full kill chains:
 
 ➡️ [`labs/`](./labs/) — [Coming Soon] C2, privilege escalation, GhostStack takeovers… etc.
 
-💥 Lab 5 will be our **“big boss level”** — full-stack compromise from firmware to AI poisoning.
+💥 lab 5 will be a **“big boss level”** — full-stack compromise from firmware to AI poisoning.
 
 ---
 
 ## 🐧 Linux & 🍎 macOS – The Sequel You Didn’t Know You Needed
-Yeah, Windows is the messy one, but Mac and Linux got skeletons too:
+Yeah, Windows is the messy one with probably plenty more, but Mac and Linux got some crazy skeletons too:
 
 - `curl` + `bash` combos
 - Stealthy `systemd` timebombs
@@ -67,13 +67,13 @@ Yeah, Windows is the messy one, but Mac and Linux got skeletons too:
 This repo is for:
 - 🕵️ Defenders who want to think like attackers
 - 🧠 Red teamers who actually read docs
-- 🧪 Students who’d rather understand the system than chase clout with cut-and-paste scripts.
+- 🧪 Students who’d rather understand the system
 
-⚠️ If you're here with bad intentions or to be a menace — You are better off sharpening your skills, staying ethical or doing everyone a favor and just log off.
+⚠️ If you're here with bad intentions or to be a menace — consider focusing your skills ethically, contributing constructively or simply stepping away.
 
 ---
 
-## Found a LotL trick? Want eternal GitHub clout?
+## Found a LotL trick? 
 - PRs welcome
 - Be clever, not clumsy
 - Keep it sharp, keep it useful
