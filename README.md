@@ -1,6 +1,6 @@
 # 🕶️ Living Off the Land Techniques – Welcome to the Playground
 
-Welcome to **Living Off the Land Techniques** — where we collect **devious-but-delightful tactics** used by real adversaries to blend in like a ghost at a costume party. Why write malware when you can just **weaponize the system itself**?
+Welcome to **Living Off the Land Techniques** — where I collected **devious-but-delightful tactics** used by real adversaries to blend in like a ghost at a costume party. Why write malware when you can just **weaponize the system itself**?
 
 > 🧠 Think of this like a hacker’s farmer’s market — fresh, organic, pre-installed tools straight from Microsoft’s garden.
 
