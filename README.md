@@ -65,11 +65,11 @@ Yeah, Windows is the messy one with probably plenty more, but Mac and Linux got 
 
 ##  For the Real Ones
 This repo is for:
-- 🕵 Defenders who want to think like attackers
+-  Defenders who want to think like attackers
 -  Red teamers who actually read docs
 -  Students who’d rather understand the system
 
-⚠️ If you're here with bad intentions or to be a menace — consider focusing your skills ethically, contributing constructively or simply stepping away.
+If you're here with bad intentions or to be a menace — consider focusing your skills ethically, contributing constructively or simply stepping away.
 
 ---
 
