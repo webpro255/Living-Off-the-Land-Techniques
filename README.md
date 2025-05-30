@@ -5,7 +5,7 @@
   <a href="https://github.com/webpro255/Living-Off-the-Land-Techniques"><img src="https://img.shields.io/github/stars/webpro255/Living-Off-the-Land-Techniques?style=social" alt="GitHub Stars"/></a>
 </p>
 
-# 🕶️ Living Off the Land Techniques – Welcome to the Playground
+#  Living Off the Land Techniques – Welcome to the Playground
 
 
 Welcome to **Living Off the Land Techniques** — where I collected **devious-but-delightful tactics** used by real adversaries to blend in like a ghost at a costume party. Why write malware when you can just **weaponize the system itself**?
@@ -33,7 +33,7 @@ Let’s be honest. If it’s not clever, sneaky or kinda horrifying, it’s not 
 
 ---
 
-## 💻 Windows Is the Main Act Right Now !
+##  Windows Is the Main Act Right Now !
  These are the tricks that pentesters brag about and blue teams dread:
 
 ➡ [`windows/`](./windows/) — Packed with native tools
@@ -52,7 +52,7 @@ lab 5 will be a **“big boss level”** — full-stack compromise from firmware
 
 ---
 
-## 🐧 Linux &  macOS – The Sequel You Didn’t Know You Needed
+##  Linux &  macOS – The Sequel You Didn’t Know You Needed
 Yeah, Windows is the messy one with probably plenty more, but Mac and Linux got some crazy skeletons too:
 
 - `curl` + `bash` combos
