@@ -2,7 +2,6 @@
   <a href="https://github.com/webpro255/Living-Off-the-Land-Techniques"><img src="https://img.shields.io/badge/OSINT-friendly-blueviolet?style=flat-square&logo=github" alt="OSINT Friendly Badge"/></a>
   <a href="https://github.com/webpro255/Living-Off-the-Land-Techniques"><img src="https://img.shields.io/badge/Red%20Team-Tested-red?style=flat-square&logo=attack" alt="Red Team Tested"/></a>
   <a href="https://github.com/webpro255/Living-Off-the-Land-Techniques"><img src="https://img.shields.io/badge/Education-Only-important?style=flat-square&logo=readthedocs" alt="Education Only"/></a>
-  <a href="https://github.com/webpro255/Living-Off-the-Land-Techniques"><img src="https://img.shields.io/github/stars/webpro255/Living-Off-the-Land-Techniques?style=social" alt="GitHub Stars"/></a>
 </p>
 
 #  Living Off the Land Techniques – Welcome to the Playground
